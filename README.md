@@ -7,7 +7,6 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'sms_client', git: 'git@gitlab.icar99.com:zc/sms_client.git', tag: 'v0.0.5'
 ```
 
 And then execute:
